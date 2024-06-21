@@ -48,5 +48,5 @@ I am Aishi Paul, an enthusiast Coder from India, pursued B.Tech in Information T
   <h2>Stats</h2>
 </div>
 
-[![GitHub Streak]([![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aishi2&theme=whatsapp-light)](https://git.io/streak-stats))](#)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aishi2&theme=whatsapp-light)](https://git.io/streak-stats))]
 <br>
